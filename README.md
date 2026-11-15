@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alaya Dcruz
 ====================================================================================================================================
 
-Computer Science Student (by day, superwoman by night).
+Computer Science Student 
 -------------------------------------------------------
 
 I've always had a thing for solving problems and thinking through puzzles but chess can only get you so far so I decided to code. I love building projects, solving problems and I'm always open to exploring and learning new things.
